@@ -1,4 +1,20 @@
 # Team Project
+Primary focus:
+
+The project explores the relationship between two independent variables i.e. net migration and fertility rates, and the dependant variable population growth. The dataset we selected was the Global Life Expectancy at Birth on Kaggle. This dataset consists of a comprehensive dataset of life expectancy trends.
+
+Relationships explored:
+
+1.	The relationship between fertility rates and population growth
+2.	The relationship between net migration and population growth 
+
+Approach taken:
+
+Our group members shared their research topic preferences so we could fairly select a topic that was of interest to everyone. Once we had highlighted our interest in ‘Healthcare’, we explored various databases to select the suitable dataset for the project. After shortlisting a few datasets, we dived deeper into each one of them together to explore them further. We analysed the datasets and the variables within it to see their relevance to our topic of interest as well as the business context attached to it. 
+After finalising out dataset “Global Life Expectancy at birth”, we divided the tasks within the team so every member contributes effectively in the area of their expertise.  
+
+
+
 
 ## Description
 The team project consists of two modules. Each module requires participants to apply the skills they have learned to date, and explore a dataset of their choosing. The first part of the team project involves creating a simple program with a database in order to analyze a dataset from an open source, such as Kaggle. In the second part of the team project, teams will come together again and apply the skills developed in each of the data science or machine learning foundations certificate streams. Teams will either create a data visualization or a machine learning model.
