@@ -71,6 +71,12 @@ Work periods will also be used as opportunities for teams to collaborate and wor
 |-- README.md
 |-- .gitignore
 ```
+How will you select your dataset? explore various databases and selected Global Life expectancy at birth from Kaggle
+* How will you make sure all team members can contribute to the project?
+* How will you make decisions?
+* What is the question you're trying to answer through your data analysis?
+* What tasks need to be completed to get to your final output?
+
 
 ### Project 2
 ```markdown
