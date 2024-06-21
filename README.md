@@ -94,3 +94,24 @@ Work periods will also be used as opportunities for teams to collaborate and wor
 * README: This file!
 * .gitignore: Files to exclude from this folder, specified by the Technical Facilitator
 
+#### Rules of Engagement
+
+1. Open Communication
+    - provide honest and direct feedback to others
+    - express concern if obstacle arises, during meetings as well as while doing own's work
+
+2. Treat each other with respect
+    - make sure feedback is constructive and not just criticism
+    - respect each other's personal schedule and recognize the needs of families
+
+3. Autonomy and accountability
+    - each member is responsible for managing their own tasks and deadlines
+    - each member should proactively seek help or resources if they encounter obstacles
+
+4. Concensus on important decisions
+    - when issues come up during meetnigs, collectively decide and agree on an actionable plan
+    - everyone must agree on important decisions like topic, dataset to use, and which analysis to use
+
+
+
+
