@@ -58,6 +58,16 @@ Work periods will also be used as opportunities for teams to collaborate and wor
 ### How to get help
 ![image](/steps-to-ask-for-help.png)
 
+## Contact
+* **Gloria Chung** 
+gwmchung@gmail.com
+* **Namra Schazil** 
+namraarif@live.com
+* **Rajwinder Takk** 
+rtakk@live.com
+* **Yuliia Makushenko** 
+yuliia.makushenko@gmail.com
+
 ## Folder Structure
 
 ### Project 1
@@ -65,36 +75,17 @@ Work periods will also be used as opportunities for teams to collaborate and wor
 |-- data
 |---- processed
 |---- raw
-|---- sql
 |-- reports
-|-- src
 |-- README.md
 |-- .gitignore
 ```
 
-### Project 2
-```markdown
-|-- data
-|---- processed
-|---- raw
-|---- sql
-|-- experiments
-|-- models
-|-- reports
-|-- src
-|-- README.md
-|-- .gitignore
-```
-
-* **Data:** Contains the raw, processed and final data. For any data living in a database, make sure to export the tables out into the `sql` folder, so it can be used by anyone else.
-* **Experiments:** A folder for experiments
-* **Models:** A folder containing trained models or model predictions
-* **Reports:** Generated HTML, PDF etc. of your report
-* **src:** Project source code
+* **Data:** Contains the raw, processed and final data. 
+* **Reports:** Jupyter notebooks containing analysis code. 
 * README: This file!
 * .gitignore: Files to exclude from this folder, specified by the Technical Facilitator
 
-#### Rules of Engagement
+## Rules of Engagement
 
 1. Open Communication
     - provide honest and direct feedback to others
@@ -111,7 +102,4 @@ Work periods will also be used as opportunities for teams to collaborate and wor
 4. Concensus on important decisions
     - when issues come up during meetnigs, collectively decide and agree on an actionable plan
     - everyone must agree on important decisions like topic, dataset to use, and which analysis to use
-
-
-
 
