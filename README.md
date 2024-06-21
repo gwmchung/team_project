@@ -21,21 +21,21 @@ The relationship between fertility rates and population growth depicted a signif
 The relationship between net migration and population growth showed a low F-statistic and p-value in the regression analysis. It was predicted that this relationship is not statistically significant and therefore it cannot be said that the net migration has any effect on population growth. 
 
 Intended Audience:
-•	Policymakers, government officials, and researchers interested in understanding how fertility rates impact population growth.
-•	Immigration policymakers, urban planners, and economists interested in understanding the factors influencing population growth trends beyond net migration alone.
+1. Policymakers, government officials, and researchers interested in understanding how fertility rates impact population growth.
+2. Immigration policymakers, urban planners, and economists interested in understanding the factors influencing population growth trends beyond net migration alone.
 
 Question our analysis is trying to answer:
-•	How does the fertility rate (births per woman) affect population growth rates over time?
-•	What are the correlations between fertility rates and population growth over different time periods?
-•	What are the trends in population growth over a specific period?
-•	To what extent does net migration contribute to population growth?
+1. How does the fertility rate (births per woman) affect population growth rates over time?
+2. What are the correlations between fertility rates and population growth over different time periods?
+3. What are the trends in population growth over a specific period?
+4. To what extent does net migration contribute to population growth?
 
 Specific libraries or frameworks:
-• Pandas
-• NumPy
-• Statsmodels
-• Matplotlib
-• Jupyter Notebooks
+1. Pandas
+2. NumPy
+3. Statsmodels
+4. Matplotlib
+5. Jupyter Notebooks
 
 
 
