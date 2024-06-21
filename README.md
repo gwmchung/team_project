@@ -103,3 +103,5 @@ yuliia.makushenko@gmail.com
     - when issues come up during meetnigs, collectively decide and agree on an actionable plan
     - everyone must agree on important decisions like topic, dataset to use, and which analysis to use
 
+## Feedback videos from team members
+* [Gloria](https://youtu.be/E-LZbu2g2wY)
