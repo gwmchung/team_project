@@ -105,3 +105,4 @@ yuliia.makushenko@gmail.com
 
 ## Feedback videos from team members
 * [Gloria](https://youtu.be/E-LZbu2g2wY)
+* [Rajwinder](https://youtu.be/M0dGDwzgb1Y)
