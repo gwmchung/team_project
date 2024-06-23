@@ -95,3 +95,5 @@ yuliia.makushenko@gmail.com
 
 * [Gloria](https://youtu.be/E-LZbu2g2wY)
 * [Rajwinder](https://youtu.be/M0dGDwzgb1Y)
+* [Yuliia] (https://www.youtube.com/watch?v=mJ5yiZzk_I8)
+* [Namra] (https://youtu.be/Mr_K2p4Yh2w?feature=shared)
