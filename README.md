@@ -29,7 +29,7 @@ After finalising out dataset “Global Life Expectancy at birth”, we divided t
 
 ### Patterns/trends identified:
 
-The regression analysis conducted on our dataset can be found in the jupiter nitebook in the 'report' section of our team-project repo.
+The regression analysis conducted on our dataset can be found in the Jupyter notebook in the 'report' section of our team-project repo.
 The relationship between fertility rates and population growth depicted a significant positive correlation. This is shown by the high F-statistic and the low p-value in the regression analysis. The results are statistically significant and for each one-unit increase in the fertility rate, the population growth is expected to increase by 0.4807 units, assuming all other factors remain constant.
 The relationship between net migration and population growth showed a low F-statistic and p-value in the regression analysis. It was predicted that this relationship is not statistically significant and therefore it cannot be said that the net migration has any effect on population growth. 
 
