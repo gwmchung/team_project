@@ -41,7 +41,7 @@ Specific libraries or frameworks:
 
 Team Project 2:
 
-*What are the main goals and objectives of our visualization project?*
+**What are the main goals and objectives of our visualization project?**
 
 Goals:
 
@@ -60,7 +60,7 @@ Objectives:
 - Highlight significant trends, correlations, and anomalies in the data.
 
 
-* How can we tailor the visualization to effectively communicate with our audience?
+**How can we tailor the visualization to effectively communicate with our audience?**
 
 - Use simple, clear, and concise visual elements to avoid overwhelming the audience.
 
@@ -72,17 +72,17 @@ Objectives:
 
 - Incorporate interactive elements where feasible to allow users to explore the data further.
 
-* What type of visualization best suits our data and objectives (e.g., bar chart, scatter plot, heatmap)?
+**What type of visualization best suits our data and objectives (e.g., bar chart, scatter plot, heatmap)?**
 
 Choropleth map is best for visualizing our data and objectives because it allows us to see geographic representation, visualize spatial patterns, ease to compare, intuitive to interpret, relevant to decision-making, communicate complex data.
 
 
-* Are there any specific libraries or frameworks that are well-suited to our project requirements?
+**Are there any specific libraries or frameworks that are well-suited to our project requirements?**
 
 Pandas, Matplotlib, Seaborn, Plotly, Plotly.express, Geopandas, Scikit-learn, Kaleido.
 
 
-* How can we iterate on our design to address feedback and make iterative improvements?
+**How can we iterate on our design to address feedback and make iterative improvements?**
 
 Iterating on a design based on feedback is a critical process for improving a visualisation. There are several steps that could be followed to incorporate feedback and make iterative improvements:
 -	Feedback can be gathered from a diverse group of viewers who interact with the data visualisation. This can be done through surveys, usability testing or direct observation. The feedback can cover various aspects of data visualization such as usability issues, design flaws, data accuracy or aesthetic concerns. 
@@ -92,7 +92,7 @@ Iterating on a design based on feedback is a critical process for improving a vi
 -	Based on the new feedback, the data visualisations could be adjusted to make iterative improvements. An important aspect of iterative improvement is to track and document the changes to understand the changes in the future. 
 
 
-* What best practices can we follow to promote inclusivity and diversity in our visualization design?
+**What best practices can we follow to promote inclusivity and diversity in our visualization design?**
 
 There are several steps that can be taken to make sure that the data visualisation in accessible to a large population overcoming the barrier of visual and hearing impairments:
 -	Provision of alternative descriptive text means that people using screen readers can access the data easily.
@@ -102,12 +102,13 @@ There are several steps that can be taken to make sure that the data visualisati
 -	Viridis package can be used to make plots easier to read by those with colorblindness, and to maintain contrast so plots are readable in greyscale.
 -	If we want to prevent replying solely on colors and patterns to present our visualisations, we should use clear data labels on individual data points or bars in a bar graph. Every visual element on the graph should be clearly described in a legend to reduce anxiety for our audiences. Certain typefaces and fonts are considered more accessible so should be considered when designing data visualisation.
 -	To maximise the accessibility of our data visualisations, we can consider open access or Creative Commons licenses.
+
 There are several aspects of data visualisations that can be considered when collecting and translating data into visuals forms to enhance inclusivity:
 -	Including a range of data impacts the ways in which that data is later visualised for example a binary ‘gender’ variable means excluding nonbinary identities from our dataset. 
 -	‘Underwater labour’ is the idea of behind the scenes work that goes into data visualisation and should therefore be acknowledged so that the contribution of those people is visible and valued. In the case of data visualisation, credit should be given to community organisers who facilitated data collection, designers creating color palletes for visualisation, technical writers, student research assistant, IT support staff and caregivers for children during project work etc. 
 -	The data visualisation should be reproducible to understand and trace the data we see in graphics. 
 
-* How can we ensure that our visualization accurately represents the underlying data without misleading or misinterpreting information?
+**How can we ensure that our visualization accurately represents the underlying data without misleading or misinterpreting information?**
 
 There are several key aspects that were considered to allow our visualisation to represent the data accurately which would be effective in communicating the intended message without misleading viewers:
 
@@ -118,7 +119,7 @@ There are several key aspects that were considered to allow our visualisation to
 -	Use of clear and descriptive labels, titles and legends in our data visualisation allowed viewers to understand and interpret the information correctly. Consistent color schemes (as well as grey scale to allow for visual impairments), fonts and styles were utilised to avoid data misinterpretation. For example, in our visualisation, distinct colors were used to show the relationship between net migration and population growth, and birth rate and population growth. This allows to direct the viewers’ attention to important aspects of the data and can clarify complex information. 
 
 
-* Are there any privacy concerns or sensitive information that need to be addressed in our visualization?
+**Are there any privacy concerns or sensitive information that need to be addressed in our visualization?**
 
 The Global Life expectancy data is relatively low risk in terms of privacy concerns but it’s always a good practice to handle all data with care and respect. 
 
