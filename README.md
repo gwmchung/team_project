@@ -41,7 +41,7 @@ Specific libraries or frameworks:
 
 Team Project 2:
 
-* What are the main goals and objectives of our visualization project?
+*What are the main goals and objectives of our visualization project?*
 
 Goals:
 
