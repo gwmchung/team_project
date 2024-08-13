@@ -1,6 +1,6 @@
 # Team Project
 
-# [Jump directly to Team Project part2](#team_project2)
+### [Jump directly to Team Project part2](#team_project2)
 
 ### Primary focus:
 
@@ -137,8 +137,9 @@ Objectives:
 
 **What type of visualization best suits our data and objectives (e.g., bar chart, scatter plot, heatmap)?**
 
-Choropleth map is best for visualizing our data and objectives because it allows us to see geographic representation, visualize spatial patterns, ease to compare, intuitive to interpret, relevant to decision-making, communicate complex data.
+For visualizing the data for all the different countries, choropleth map is best for visualizing our data and objectives because it allows us to see geographic representation, visualize spatial patterns, ease to compare, intuitive to interpret, relevant to decision-making, communicate complex data.
 
+For visualizing the data for the trends in the population growth, birth rate, and net migration rate, a line graph is best.  All three simple lines of different colours, plotted on the same graph, clearly compares the trends of the three variables.  
 
 **Are there any specific libraries or frameworks that are well-suited to our project requirements?**
 
