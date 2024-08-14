@@ -196,7 +196,7 @@ The Global Life expectancy data is relatively low risk in terms of privacy conce
 -	The ‘Global life expectancy at birth’ dataset contains information about the life expectancy of male and female populations across different regions and income levels so careful consideration was given to generate visualisations which avoids reinforcing stereotypes or biases. 
 
 
-** Feedback videos on part2 from team members
+## Feedback videos on part2 from team members
 * [Gloria](https://youtu.be/cJTXSTIOAMk)
 * [Rajwinder](https://youtu.be/sMFN9WzQ_1Y)
 * [Yuliia](https://www.youtube.com/watch?v=jyKOGDvpE3o)
